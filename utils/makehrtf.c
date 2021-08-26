@@ -103,7 +103,7 @@
 
 // The limits for the sample 'rate' metric in the data set definition and for
 // resampling.
-#define MIN_RATE                     (32000)
+#define MIN_RATE                     (8000)
 #define MAX_RATE                     (96000)
 
 // The limits for the HRIR 'points' metric in the data set definition.
